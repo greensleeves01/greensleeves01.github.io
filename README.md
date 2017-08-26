@@ -1,3 +1,3 @@
-This is the landing page for Videlicet Web Design. 
+This is one of the landing pages for Videlicet Web Design. 
 
 
