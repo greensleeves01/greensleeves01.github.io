@@ -1,3 +1,3 @@
-This dot io page is a simple landing page consisting of urls pertinent to the user in question. 
+This is the landing page for Videlicet Web Design. 
 
 
